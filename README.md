@@ -35,6 +35,4 @@
 
 ###
 
-<p align="left">"Se você decidir que irá fazer apenas aquilo que sabe que dará certo, estará deixando um monte de oportunidades para trás."<br><br>Jeff Bezos</p>
 
-###
