@@ -34,5 +34,3 @@
 <img align="right" height="700" src="https://media4.giphy.com/media/5Ys1txIVotGFaIQR6G/giphy.gif?cid=6c09b952mz7j60qcz4z0yxdi9iixzg72cso9lphqaphivbrx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
 ###
-
-
